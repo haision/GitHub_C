@@ -1,0 +1,23 @@
+
+Disk /dev/sdb: 10.7 GB, 10737418240 bytes
+255 heads, 63 sectors/track, 1305 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x801e12e9
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sdb1               1        1305    10482381   83  Linux
+
+Disk /dev/sda: 21.5 GB, 21474836480 bytes
+255 heads, 63 sectors/track, 2610 cylinders
+Units = cylinders of 16065 * 512 = 8225280 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk identifier: 0x0004ebfc
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sda1   *           1          39      307200   83  Linux
+Partition 1 does not end on cylinder boundary.
+/dev/sda2              39        2358    18631680   83  Linux
+/dev/sda3            2358        2611     2031616   82  Linux swap / Solaris

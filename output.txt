@@ -1,0 +1,1 @@
+19:29:22.403209 ppoll([{fd=4, events=POLLIN}, {fd=10, events=POLLIN|POLLERR|POLLHUP}, {fd=10, events=0}, {fd=19, events=POLLIN|POLLERR|POLLHUP}, {fd=19, events=0}, {fd=15, events=POLLIN}, {fd=18, events=POLLIN}, {fd=14, events=POLLIN}, {fd=13, events=POLLIN}, {fd=8, events=POLLIN}], 10, NULL, NULL, 8 <unfinished ...>
